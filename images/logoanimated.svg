@@ -1,0 +1,222 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 546.61 413.62" style="">
+  <defs>
+    <style>
+.cls-1 {
+    fill: #262262;
+    stroke: #fff;
+    stroke-miterlimit: 10;
+    stroke-width: 2px;
+}
+</style>
+  </defs>
+  <title>violetlogo</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path class="cls-1 qhxgRWvo_0" d="M202.01,1L253.99,1L75.84,366.48L163.58,366.48L144.28,412.63L1.6,412.63L202.01,1Z"></path>
+      <path class="cls-1 qhxgRWvo_1" d="M133.39,330.45L182.75,330.45L318.57,50.49L473.71,366.48L383.13,366.48L402.4,412.63L545.01,412.63L344.65,1L292.5,1L133.39,330.45Z"></path>
+      <path class="cls-1 qhxgRWvo_2" d="M223.79,330.45L413.35,330.45L318.57,138.32L292.5,187.81L341.99,286.37L246.01,286.42L223.79,330.45Z"></path>
+      <path class="cls-1 qhxgRWvo_3" d="M200.26,393.1a8.65,8.65,0,0,1-1.32,4.32,7.92,7.92,0,0,1-3.39,2.9,11.44,11.44,0,0,1-5,1,9.18,9.18,0,0,1-7.27-3q-2.66-3-2.66-8.49v-1.16a14.15,14.15,0,0,1,1.2-6,9.11,9.11,0,0,1,3.45-4,9.61,9.61,0,0,1,5.21-1.41,10.06,10.06,0,0,1,6.85,2.25,8.85,8.85,0,0,1,2.95,6.18h-5.63a4.21,4.21,0,0,0-1.08-3.07,4.44,4.44,0,0,0-3.09-.93,3.38,3.38,0,0,0-3.09,1.57,10.27,10.27,0,0,0-1,5V390a11.17,11.17,0,0,0,1,5.36,3.43,3.43,0,0,0,3.24,1.61,4.33,4.33,0,0,0,3-.92,3.9,3.9,0,0,0,1.1-2.91Z"></path>
+      <path class="cls-1 qhxgRWvo_4" d="M216.57,392.75h-3.06V401h-5.64V377.61h9.21a10.32,10.32,0,0,1,6.52,1.85,6.26,6.26,0,0,1,2.34,5.22,7.69,7.69,0,0,1-1,4.05,7,7,0,0,1-3.1,2.6l4.89,9.46V401H220.7Zm-3.06-4.35h3.57a3.2,3.2,0,0,0,2.42-.84,3.83,3.83,0,0,0,0-4.74,3.18,3.18,0,0,0-2.42-.87h-3.57Z"></path>
+      <path class="cls-1 qhxgRWvo_5" d="M248.82,391.09h-8.88v5.6h10.49V401H234.3V377.61h16.16V382H239.94v4.94h8.88Z"></path>
+      <path class="cls-1 qhxgRWvo_6" d="M271,396.65h-7.74L261.88,401h-6l8.59-23.42h5.3L278.4,401h-6.07Zm-6.39-4.35h5l-2.52-8.13Z"></path>
+      <path class="cls-1 qhxgRWvo_7" d="M301.49,382h-7V401h-5.65V382h-6.9v-4.36h19.57Z"></path>
+      <path class="cls-1 qhxgRWvo_8" d="M314.83,401H309.2V377.61h5.63Z"></path>
+      <path class="cls-1 qhxgRWvo_9" d="M332.78,394.66l4.66-17.05h6.31L335.87,401h-6.18l-7.81-23.42h6.25Z"></path>
+      <path class="cls-1 qhxgRWvo_10" d="M364.92,391.09H356v5.6h10.49V401H350.39V377.61h16.17V382H356v4.94h8.88Z"></path>
+    </g>
+  </g>
+  <style data-made-with="vivus-instant">
+.qhxgRWvo_0 {
+    stroke-dasharray: 1197 1199;
+    stroke-dashoffset: 1198;
+    animation: qhxgRWvo_draw_0 13800ms ease-in-out 0ms infinite, qhxgRWvo_fade 13800ms linear 0ms infinite;
+}
+.qhxgRWvo_1 {
+    stroke-dasharray: 1872 1874;
+    stroke-dashoffset: 1873;
+    animation: qhxgRWvo_draw_1 13800ms ease-in-out 0ms infinite, qhxgRWvo_fade 13800ms linear 0ms infinite;
+}
+.qhxgRWvo_2 {
+    stroke-dasharray: 716 718;
+    stroke-dashoffset: 717;
+    animation: qhxgRWvo_draw_2 13800ms ease-in-out 0ms infinite, qhxgRWvo_fade 13800ms linear 0ms infinite;
+}
+.qhxgRWvo_3 {
+    stroke-dasharray: 109 111;
+    stroke-dashoffset: 110;
+    animation: qhxgRWvo_draw_3 13800ms ease-in-out 0ms infinite, qhxgRWvo_fade 13800ms linear 0ms infinite;
+}
+.qhxgRWvo_4 {
+    stroke-dasharray: 121 123;
+    stroke-dashoffset: 122;
+    animation: qhxgRWvo_draw_4 13800ms ease-in-out 0ms infinite, qhxgRWvo_fade 13800ms linear 0ms infinite;
+}
+.qhxgRWvo_5 {
+    stroke-dasharray: 118 120;
+    stroke-dashoffset: 119;
+    animation: qhxgRWvo_draw_5 13800ms ease-in-out 0ms infinite, qhxgRWvo_fade 13800ms linear 0ms infinite;
+}
+.qhxgRWvo_6 {
+    stroke-dasharray: 107 109;
+    stroke-dashoffset: 108;
+    animation: qhxgRWvo_draw_6 13800ms ease-in-out 0ms infinite, qhxgRWvo_fade 13800ms linear 0ms infinite;
+}
+.qhxgRWvo_7 {
+    stroke-dasharray: 86 88;
+    stroke-dashoffset: 87;
+    animation: qhxgRWvo_draw_7 13800ms ease-in-out 0ms infinite, qhxgRWvo_fade 13800ms linear 0ms infinite;
+}
+.qhxgRWvo_8 {
+    stroke-dasharray: 59 61;
+    stroke-dashoffset: 60;
+    animation: qhxgRWvo_draw_8 13800ms ease-in-out 0ms infinite, qhxgRWvo_fade 13800ms linear 0ms infinite;
+}
+.qhxgRWvo_9 {
+    stroke-dasharray: 104 106;
+    stroke-dashoffset: 105;
+    animation: qhxgRWvo_draw_9 13800ms ease-in-out 0ms infinite, qhxgRWvo_fade 13800ms linear 0ms infinite;
+}
+.qhxgRWvo_10 {
+    stroke-dasharray: 118 120;
+    stroke-dashoffset: 119;
+    animation: qhxgRWvo_draw_10 13800ms ease-in-out 0ms infinite, qhxgRWvo_fade 13800ms linear 0ms infinite;
+}
+@keyframes qhxgRWvo_draw {
+100% {
+stroke-dashoffset:0;
+}
+}
+@keyframes qhxgRWvo_fade {
+0% {
+stroke-opacity:1;
+}
+63.768115942028984% {
+stroke-opacity:1;
+}
+100% {
+stroke-opacity:0;
+}
+}
+@keyframes qhxgRWvo_draw_0 {
+5.797101449275362% {
+stroke-dashoffset: 1198
+}
+42.028985507246375% {
+stroke-dashoffset: 0;
+}
+100% {
+stroke-dashoffset: 0;
+}
+}
+@keyframes qhxgRWvo_draw_1 {
+5.797101449275362% {
+stroke-dashoffset: 1873
+}
+42.028985507246375% {
+stroke-dashoffset: 0;
+}
+100% {
+stroke-dashoffset: 0;
+}
+}
+@keyframes qhxgRWvo_draw_2 {
+5.797101449275362% {
+stroke-dashoffset: 717
+}
+42.028985507246375% {
+stroke-dashoffset: 0;
+}
+100% {
+stroke-dashoffset: 0;
+}
+}
+@keyframes qhxgRWvo_draw_3 {
+5.797101449275362% {
+stroke-dashoffset: 110
+}
+42.028985507246375% {
+stroke-dashoffset: 0;
+}
+100% {
+stroke-dashoffset: 0;
+}
+}
+@keyframes qhxgRWvo_draw_4 {
+5.797101449275362% {
+stroke-dashoffset: 122
+}
+42.028985507246375% {
+stroke-dashoffset: 0;
+}
+100% {
+stroke-dashoffset: 0;
+}
+}
+@keyframes qhxgRWvo_draw_5 {
+5.797101449275362% {
+stroke-dashoffset: 119
+}
+42.028985507246375% {
+stroke-dashoffset: 0;
+}
+100% {
+stroke-dashoffset: 0;
+}
+}
+@keyframes qhxgRWvo_draw_6 {
+5.797101449275362% {
+stroke-dashoffset: 108
+}
+42.028985507246375% {
+stroke-dashoffset: 0;
+}
+100% {
+stroke-dashoffset: 0;
+}
+}
+@keyframes qhxgRWvo_draw_7 {
+5.797101449275362% {
+stroke-dashoffset: 87
+}
+42.028985507246375% {
+stroke-dashoffset: 0;
+}
+100% {
+stroke-dashoffset: 0;
+}
+}
+@keyframes qhxgRWvo_draw_8 {
+5.797101449275362% {
+stroke-dashoffset: 60
+}
+42.028985507246375% {
+stroke-dashoffset: 0;
+}
+100% {
+stroke-dashoffset: 0;
+}
+}
+@keyframes qhxgRWvo_draw_9 {
+5.797101449275362% {
+stroke-dashoffset: 105
+}
+42.028985507246375% {
+stroke-dashoffset: 0;
+}
+100% {
+stroke-dashoffset: 0;
+}
+}
+@keyframes qhxgRWvo_draw_10 {
+5.797101449275362% {
+stroke-dashoffset: 119
+}
+42.028985507246375% {
+stroke-dashoffset: 0;
+}
+100% {
+stroke-dashoffset: 0;
+}
+}
+</style>
+</svg>

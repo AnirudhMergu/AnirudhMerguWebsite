@@ -1,3 +1,244 @@
 @charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700');
 /* CSS Document */
 
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+body{scroll-behavior: smooth;}
+
+html {
+    font-family: 'Quicksand', sans-serif;
+}
+
+@media only screen and (max-width: 425px) {
+.herocontainer {
+    width: calc(79.6875%);
+    height: 100vh;
+    background: url(../images/blackportrait.svg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center bottom -15px;
+    background-size: 50vh auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 10.15625%;
+    padding-right: 10.15625%;
+}
+.tagline {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size: 6vw;
+    text-align: center;
+    padding-top: 40%;
+}
+.category {
+    text-decoration: none;
+    color: #0D0D0D;
+    font-weight: 500;
+}
+.category:hover {
+    color: #1BA9CF;
+    transition: 200ms ease-in-out;
+}
+.logocontainer {
+    width: 60px;
+    height: 60px;
+    background: #0077FF;
+    padding: 10px;
+    float: left;
+    position: fixed;
+    z-index: 999;
+}
+}
+
+@media only screen and (min-width:424px) and (max-width:769px) {
+.herocontainer {
+    width: calc(79.6875%);
+    height: 100vh;
+    background: url(../images/blackportrait.svg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center bottom -15px;
+    background-size: 50vh auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 10.15625%;
+    padding-right: 10.15625%;
+}
+.tagline {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size: 6vw;
+    text-align: center;
+    padding-top: 15%;
+}
+.category {
+    text-decoration: none;
+    color: #0D0D0D;
+    font-weight: 500;
+}
+.category:hover {
+    color: #1BA9CF;
+    transition: 200ms ease-in-out;
+}
+.logocontainer {
+    width: 70px;
+    height: 70px;
+    background: #0077FF;
+    padding: 10px;
+    float: left;
+    position: fixed;
+}
+}
+
+@media only screen and (min-width: 768px) {
+.herocontainer {
+    width: calc(79.6875%);
+    height: 100vh;
+    background: url(../images/blackportrait.svg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: right 10% bottom -15px;
+    background-size: 60vh auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding-left: 10.15625%;
+    padding-right: 10.15625%;
+}
+.tagline {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+    font-size: 4vw;
+    text-align: left;
+    padding-top: 10%;
+}
+.category {
+    text-decoration: none;
+    color: #0D0D0D;
+    font-weight: 500;
+}
+.category:hover {
+    color: #0077FF;
+    transition: 200ms ease-in-out;
+}
+.logocontainer {
+    width: 70px;
+    height: 70px;
+    background: #0077FF;
+    padding: 10px;
+    float: left;
+    position: fixed;
+}
+}
+    
+.hone {
+    width: 35px;
+        
+}
+.htwo {
+    width: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.hthree {
+    width: 30px;
+}
+header {
+    float: left;
+    width: calc(79.6875%);
+    position: fixed;
+    top: 20px;
+    left: 0;
+    z-index: 4;
+    padding-left: 10.15625%;
+    padding-right: 10.15625%;
+}
+    
+    body::selection{color: white;background: #0077FF;}
+.hamburger {
+    padding: 10px;
+    width: 40px;
+    float: right;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    cursor: pointer;
+    transition: 500ms ease;
+    z-index: 999;
+}
+.hamburger span {
+    display: block;
+    background-color: #0077FF;
+    float: right;
+    height: 4px;
+    transition: 500ms ease;
+    border-radius: 50px;
+    z-index: 999;
+}
+    
+.hamburger:hover span, .hamburger span:hover
+{
+    width: 35px;
+    transition: 500ms ease;
+}
+    
+    .logocontainer{transition: 500ms ease-in-out;}
+    
+body::-webkit-scrollbar {
+    width: 0.25em;
+    background: black;
+    
+}
+ 
+body::-webkit-scrollbar-track {
+    /*Temp*/
+    
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: #0077FF;
+}
+
+.maincontainer
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu{background-color: #0077FF;display: flex;width: 100%;min-height: 90vh;flex-direction: column;justify-content: space-between;align-items: center;padding-top: 5vh;padding-bottom: 5vh;position: fixed;top: 0;left: 0;z-index: 500;visibility: hidden;background: url(../images/logowhitesemitransparent.svg);background-position: center center;background-repeat: no-repeat;}
+    html {font-family: 'Quicksand', sans-serif;}
+    .menuitem a{text-decoration: none;color: white;text-transform:uppercase;}
+    .features a{color: white;text-decoration: underline;text-decoration-style: dotted;}
+    .socialcont{display: flex;flex-direction: column;justify-content: space-between;align-items: center;}
+    .socialicons{color: white;}
+    .socialicons a {margin-left: 5px; margin-right: 5px;color: white;}
+    .email{display: flex;align-items: flex-end;color: white;margin-bottom: 10px;}
+    .email a{color: white;text-decoration: none;}
+    @media only screen and (max-width: 425px){
+        .menuboxcontainer{display: flex;flex-direction: column;justify-content:center;align-items: center;}
+    .menuitem{width: 50px;height: auto;border: 3px solid white;justify-content: center;align-items: center;display: flex;margin: 10px;padding: 20px;}
+        .features{color: white;font-weight: 300;text-align: center;font-size: 15px;}
+    }
+    @media only screen and (min-width:424px) and (max-width:769px){
+        .menuboxcontainer{display: flex;flex-direction: row;justify-content:center;align-items: center;}
+    .menuitem{width: 50px;height: auto;border: 3px solid white;justify-content: center;align-items: center;display: flex;margin: 10px;padding: 20px;}
+        .features{color: white;font-weight: 300;text-align: center;font-size: 15px;}
+    }
+    @media only screen and (min-width: 768px){
+    .menuboxcontainer{display: flex;flex-direction: row;justify-content:center;align-items: center;}
+    .menuitem{width: 100px;height: auto;border: 3px solid white;justify-content: center;align-items: center;display: flex;margin: 10px;padding: 20px;}
+        .features{color: white;font-weight: 300;text-align: center;font-size: 25px;}
+    }
